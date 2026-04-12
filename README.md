@@ -16,7 +16,7 @@ The system uses a language model to understand user questions and dynamically ex
 - Interactive question-answering loop
 - Works with CSV datasets
 
----
+--
 
 ## Technologies Used
 
