@@ -25,7 +25,6 @@ The system uses a language model to understand user questions and dynamically ex
 - OpenAI API
 - Pandas
 - Jupyter Notebook
-
 ---
 
 ## Dataset
