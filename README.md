@@ -32,7 +32,6 @@ The system uses a language model to understand user questions and dynamically ex
 The project uses the Titanic dataset for demonstration purposes. You can replace it with any CSV file.
 
 ---
-
 ## Installation
 
 Clone the repository:
