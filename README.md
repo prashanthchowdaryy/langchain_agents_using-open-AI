@@ -19,7 +19,6 @@ The system uses a language model to understand user questions and dynamically ex
 --
 
 ## Technologies Used
-
 - Python
 - LangChain
 - OpenAI API
