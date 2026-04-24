@@ -15,7 +15,6 @@ The system uses a language model to understand user questions and dynamically ex
 - Works with CSV datasets
 
 --
-
 ## Technologies Used
 - Python
 - LangChain
