@@ -5,7 +5,6 @@
 This project is an AI-powered data analysis assistant built using LangChain, OpenAI, and Pandas. It allows users to interact with datasets using natural language queries instead of writing code.
 
 The system uses a language model to understand user questions and dynamically execute Python code to generate answers based on the dataset.
-
 ---
 ## Features
 - Query datasets using natural language
