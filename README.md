@@ -8,7 +8,6 @@ The system uses a language model to understand user questions and dynamically ex
 
 ---
 ## Features
-
 - Query datasets using natural language
 - Automatic data analysis using a language model
 - Support for multiple DataFrames
